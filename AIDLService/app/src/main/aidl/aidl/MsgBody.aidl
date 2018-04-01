@@ -1,0 +1,2 @@
+package aidl;
+parcelable MsgBody;
